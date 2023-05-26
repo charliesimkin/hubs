@@ -2,7 +2,7 @@ hub TE_seeds_minimap
 shortLabel TE_seeds minimap
 longLabel full length TE seeds minimap
 useOneFile on
-email alfred.simkin@gmail.com
+email charlie.simkin@gmail.com
 
 genome drorep
 
