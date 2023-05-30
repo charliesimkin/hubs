@@ -11,7 +11,7 @@ shortLabel TE_seeds_minimap
 longLabel TE seeds minimap
 visibility full
 type bam
-bigDataUrl http://136.54.85.164:1234/folders/sf_gbib/TE_consensus/TE_seeds/output_files/bam_main_files/minimap2_aligned_sorted.bam
+bigDataUrl https://raw.githubusercontent.com/charliesimkin/hubs/main/bam_main_files/minimap2_aligned_sorted.bam
 color 0,0,180
 altColor 180,0,0
 autoScale on
